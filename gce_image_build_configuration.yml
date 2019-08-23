@@ -25,4 +25,4 @@ check:
 # Options for how to save the instance.  Currently only the "name" option is
 # supported which is the name of the image that will be saved.
 save:
-  name: "cloudless-example-base-image-v0"
+  name: "cloudless-example-base-image-v1"
